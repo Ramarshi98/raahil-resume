@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "Raahil Amarshi",
+    "occupation": "Application Engineer",
+    "description": "A quick and curious learner who enjoys solving complex technical problems and communicating the power of technical solutions. Reach out to me if you are in need of a problem-solver and an effective communicator.",
+    "image": "profilepic.jpg",
+    "bio": "Tanzanian born and raised, I am a professional cricket player, engineer and an aspiring techno-preneur. In everything that I do, I bring with me a sense of discipline, open-mindedness, and joyful curiosity.",
+    "contactmessage": "",
+    "email": "raahilkrishna@gmail.com",
+    "phone": "6105707742",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "website": "http://www.raahilamarshi.info",
+    "resumedownload": "raahil-amarshi-resume.pdf",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/RaahilTz",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/raahil-amarshi/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Ramarshi98",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Lehigh University",
+        "degree": "B.S in Industrial & Systems Engineering, Minor in Business",
+        "graduated": "May 2020",
+        "description": "This was the birthplace for my problem-solving skills. I graduated with High Honors and a some leadership awards - Check out my LinkedIn for a detailed list."
+      }
+    ],
+    "work": [
+      {
+        "company": "Unqork",
+        "title": "Application Engineer",
+        "years": "July 2021 - Present",
+        "description": "Lead teams of up to 6 to deliver web applications from start to finish within as little as 4 months. Present and teach solutions architecture to technical and non-technical audiences as large as 20 people"
+      },
+      {
+        "company": "Unqork",
+        "title": "Technical Implementation Engineer",
+        "years": "July 2020 - July 2021",
+        "description": "Leverage React.js and REST APIs to build scalable and efficient web applications for clients in financial markets. Interact closely with clients to understand their business and present technical solutions using our tech stack. Earned the Unqork SME certification."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Agile Framework",
+        "level": "70%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Communication & Presentation",
+        "level": "100%"
+      },
+      {
+        "name": "Teamwork",
+        "level": "95%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website",
+        "image": "resume-website.jpg",
+        "url": "http://www.raahilamarshi.info"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "...I was particularly impressed with how well Raahil was able to receive and implement feedback. He is also quick to mentor others, sharing his knowledge and expertise to lift up his team members around him. Raahil would be an asset to any team.",
+        "user": "Christopher Crivelli - Manager at Unqork."
+      },
+      {
+        "text": "...He listens, he asks questions, and he is always eager to learn. Anyone would be lucky to have him on their team.",
+        "user": "Tony Shapiro-Bey - Senior Application Engineer at Unqork."
+      },
+      {
+        "text": "...I am impressed by all the thorough presentations he provided both internally and externally articulating new features that he built. Raahil has that rare ability to both dive into the details of how a specific feature works but also adapt his pitch to any audience and tie that to business values...",
+        "user": "Odile Aslan - Mentor at Unqork."
+      }
+    ]
+  }
+}
