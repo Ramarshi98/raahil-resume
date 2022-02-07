@@ -4,7 +4,7 @@
     "occupation": "Application Engineer",
     "description": "A quick and curious learner who enjoys solving complex technical problems and communicating the power of technical solutions. Reach out to me if you are in need of a problem-solver and an effective communicator.",
     "image": "profilepic.jpg",
-    "bio": "Tanzanian born and raised, I am a professional cricket player, engineer and an aspiring techno-preneur. In everything that I do, I bring with me a sense of discipline, open-mindedness, and joyful curiosity.",
+    "bio": "Tanzanian born and raised, I am a professional cricket player, engineer and an aspiring techno-preneur. In everything that I do, I bring with me a sense of discipline, open-mindedness, and joyful curiosity. Some of the roles I best fit in are: Sales & Solution Engineering, Tech consulting, Application Engineering, Software Engineering, etc.",
     "contactmessage": "",
     "email": "raahilkrishna@gmail.com",
     "phone": "6105707742",
@@ -41,7 +41,7 @@
         "school": "Lehigh University",
         "degree": "B.S in Industrial & Systems Engineering, Minor in Business",
         "graduated": "May 2020",
-        "description": "This was the birthplace of my problem-solving skills. I graduated with High Honors and a some leadership awards - Check out my LinkedIn for a detailed list."
+        "description": "This was the birthplace of my problem-solving skills. I graduated with High Honors and various leadership awards - Check out my LinkedIn for a detailed list."
       }
     ],
     "work": [
@@ -49,13 +49,13 @@
         "company": "Unqork",
         "title": "Application Engineer",
         "years": "July 2021 - Present",
-        "description": "Lead teams of up to 6 to deliver web applications from start to finish within as little as 4 months. Present and teach solutions architecture to technical and non-technical audiences as large as 20 people"
+        "description": "Lead teams of up to 8 to deliver web applications from start to finish within as little as 4 months. Present and teach solutions architecture to technical and non-technical audiences as large as 20 people."
       },
       {
         "company": "Unqork",
         "title": "Technical Implementation Engineer",
         "years": "July 2020 - July 2021",
-        "description": "Leverage React.js and REST APIs to build scalable and efficient web applications for clients in financial markets. Interact closely with clients to understand their business and present technical solutions using our tech stack. Earned the Unqork SME certification."
+        "description": "Leverage React.js and REST APIs to build scalable and efficient web applications for enterpise grade clients in financial services, healthcare, insurance. Interact closely with clients to understand their business and present technical solutions using our tech stack. Earned the Unqork SME certification."
       }
     ],
     "skills": [
